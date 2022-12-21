@@ -23,6 +23,8 @@ Below is a vision of what both parties would like to produce as the end result.
 ## Sprint 1 - ETL-Pipline
 Sprint 1 product backlog consist of:
 ### 1.	Extract data from CSV file
+A sample CSV file for the type of data we will be dealing with was provided by the client. As part of the PoC (Proof of Concept) stage the file  was used to create our Extract stage of the pipeline.
+
 ### 2.	Transform - Remove sensitive data
 ### 3.	Transform - Normalise data to 3NF
 ### 4.  Create SQL script to generate database
