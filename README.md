@@ -4,5 +4,5 @@
 ## Table of Content
 1. [Project Overview](#)
 2. [Sprint 1 - ETL-Pipline](https://github.com/success4lyf/ETL-Pipline)
-3. [Sprint 2 - AWS](https://github.com/success4lyf/AWS-Data-Warehouse)
+3. [Sprint 2 - AWS-Data-Warehouse](https://github.com/success4lyf/AWS-Data-Warehouse)
 
