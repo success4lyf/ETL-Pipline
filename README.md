@@ -23,7 +23,13 @@ Below is a vision of what both parties would like to produce as the end result.
 ## Sprint 1 - ETL-Pipline
 Sprint 1 product backlog consist of:
 ### 1.	Extract data from CSV file
-A sample CSV file for the type of data we will be dealing with was provided by the client. As part of the PoC (Proof of Concept) stage the file  was used to create our Extract stage of the pipeline.
+A sample CSV file for the type of data we will be dealing with was provided by the client. As part of the PoC (Proof of Concept) stage the file  was used to create our Extract stage of the pipeline. Requirements.txt was installed in other to install all library that will be used.
+```python
+"""
+pip install -r requirements.txt
+"""
+```
+Python Script and Pandas Dataframe was used to extract the csv file for transformation. 
 
 ### 2.	Transform - Remove sensitive data
 ### 3.	Transform - Normalise data to 3NF
