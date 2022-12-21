@@ -21,3 +21,13 @@ Below is a vision of what both parties would like to produce as the end result.
 - Application monitoring software will be used to produce operational metrics, such as system errors, up-time and more.
 
 ## Sprint 1 - ETL-Pipline
+Sprint 1 product backlog consist of:
+### 1.	Extract data from CSV file
+### 2.	Transform - Remove sensitive data
+### 3.	Transform - Normalise data to 3NF
+### 4.  Create SQL script to generate database
+### 5.	Design schema to model data
+### 6.	Load - Load data into database
+### 7.	Setup docker-compose file to create network of containers
+### 8.	Documentation
+### 9.	Testing
