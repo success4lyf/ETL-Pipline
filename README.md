@@ -32,6 +32,7 @@ pip install -r requirements.txt
 Python Script and Pandas Dataframe was used to extract the csv file for transformation. 
 
 ### 2.	Transform - Remove sensitive data
+The data contains sensitive data, which comes in the form of debit/credit card long numbers and customer names. This sensitive data was removed before it is stored.
 ### 3.	Transform - Normalise data to 3NF
 ### 4.  Create SQL script to generate database
 ### 5.	Design schema to model data
