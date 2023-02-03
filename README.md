@@ -40,6 +40,7 @@ After the transaction data has been cleaned, it was normalize into 3NF form usin
 ### 4.  Create SQL script to generate database
 SQL script was generated using psycopg2 and SQLALchemy to connect to the Postgresql Database
 ### 5.	Design schema to model data
+Schema was designed using the SQL data defination language to create tables and get the ER diagram shown below:
 ### 6.	Load - Load data into database
 ### 7.	Setup docker-compose file to create network of containers
 ### 8.	Documentation
